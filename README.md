@@ -128,18 +128,10 @@ However, our team can upgrade it to a **full-stack website** with:
 │── script.js
 │── README.md
 
-yaml
-Copy code
 
 ---
 
-## 🛠️ Setup Instructions  
-Clone the project:
-```bash
-git clone https://github.com/your-repo-link.git
-Open index.html in your browser.
-No backend or build tools required — it is a static mockup.
-
+## 🛠️ Some Instructions  
 💬 Contribution
 We welcome improvements and new ideas!
 Feel free to fork the repo and submit a pull request.
@@ -152,7 +144,7 @@ Not intended for commercial use unless approved.
 For collaboration or full-stack development:
 
 📌 HarIT Tech Solution
-📧 info@harittechsolution.com (example – replace if needed)
+📧 harittechsolution@gmail.com (example – replace if needed)
 🌐 Website: (Add your website link)
 
 ⭐ Support
