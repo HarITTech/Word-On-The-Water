@@ -119,19 +119,13 @@ However, our team can upgrade it to a **full-stack website** with:
 
 ---
 
-## 📁 Folder Structure
-/project-root
-│── /assets
-│── /images
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-
 
 ---
 
 ## 🛠️ Some Instructions  
+```bash
+No backend or build tools required — it is a static mockup.
+
 💬 Contribution
 We welcome improvements and new ideas!
 Feel free to fork the repo and submit a pull request.
@@ -144,8 +138,8 @@ Not intended for commercial use unless approved.
 For collaboration or full-stack development:
 
 📌 HarIT Tech Solution
-📧 harittechsolution@gmail.com (example – replace if needed)
-🌐 Website: (Add your website link)
+📧 harittechsolution@gmail.com 
+🌐 Website: https://harittech.in/
 
 ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub!
