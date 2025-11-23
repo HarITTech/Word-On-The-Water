@@ -93,7 +93,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="text-center text-xs text-cream/40 pt-8">
-          <p>&copy; {currentYear} Word on the Water. All rights reserved. | Built with AI Vibing.</p>
+          <p>&copy; {currentYear} Word on the Water. All rights reserved. | Built with 🧡 by HarIT Tech.</p>
         </div>
       </div>
     </footer>
